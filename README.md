@@ -42,8 +42,18 @@ https://real-time-location-tracker-bq2n.onrender.com
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/rashikatyagi/real-time-location-tracker.git
 cd real-time-location-tracker
 ```
-
-
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
+### 3️⃣ Run the Server
+```bash
+node server.js
+```
+### 4️⃣ Open in Browser
+```bash
+http://localhost:3000
+```
